@@ -7,3 +7,7 @@ __pycache__/
 .DS_Store
 .streamlit/
 outputs/models/phobert_base/checkpoint/
+outputs/models/
+outputs/results/
+*.safetensors
+*.bin
