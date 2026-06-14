@@ -1,0 +1,65 @@
+{
+  "description": "Transparent rule-based moderation policy built on top of classifier predictions, confidence, toxic span evidence, and normalization signal.",
+  "risk_levels": {
+    "low": {
+      "range": [
+        0.0,
+        0.3
+      ],
+      "default_action": "allow"
+    },
+    "medium": {
+      "range": [
+        0.3,
+        0.6
+      ],
+      "default_action": "warn_user"
+    },
+    "high": {
+      "range": [
+        0.6,
+        0.8
+      ],
+      "default_action": "send_to_review"
+    },
+    "critical": {
+      "range": [
+        0.8,
+        1.0
+      ],
+      "default_action": "block_or_escalate"
+    }
+  },
+  "policy_modes": {
+    "lenient": {
+      "risk_adjustment": -0.05
+    },
+    "balanced": {
+      "risk_adjustment": 0.0
+    },
+    "strict": {
+      "risk_adjustment": 0.05
+    }
+  },
+  "action_table": {
+    "lenient": {
+      "low": "allow",
+      "medium": "allow_with_note",
+      "high": "warn_user",
+      "critical": "send_to_review"
+    },
+    "balanced": {
+      "low": "allow",
+      "medium": "warn_user",
+      "high": "send_to_review",
+      "critical": "block_or_escalate"
+    },
+    "strict": {
+      "low": "allow",
+      "medium": "send_to_review",
+      "high": "hide_comment",
+      "critical": "block_or_escalate"
+    }
+  },
+  "important_note": "Risk score is a policy layer, not a directly learned model output. It should assist human moderation, not replace human judgment."
+}

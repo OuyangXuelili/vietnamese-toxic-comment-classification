@@ -1,0 +1,35 @@
+{
+  "run_time": "2026-06-09T17:09:40.308103",
+  "project_root": "/content/drive/MyDrive/Deep/vietnamese-toxic-comment-classification",
+  "text_col": "text_clean",
+  "label_col": "label_id",
+  "noise_types": [
+    "clean",
+    "no_accent",
+    "repeated_char",
+    "special_char",
+    "masked_word",
+    "slang_teencode",
+    "mixed_noise"
+  ],
+  "run_svm_baseline": true,
+  "run_svm_augmentation": true,
+  "run_xlmr": true,
+  "xlmr_model_name": "xlm-roberta-base",
+  "xlmr_num_epochs": 1,
+  "xlmr_max_length": 96,
+  "xlmr_batch_size": 16,
+  "xlmr_eval_batch_size": 64,
+  "xlmr_original_sample": 8000,
+  "xlmr_aug_original_sample": 8000,
+  "xlmr_aug_noise_sample": 8000,
+  "output_files": {
+    "robustness_all_metrics": "/content/drive/MyDrive/Deep/vietnamese-toxic-comment-classification/outputs/results/note08/robustness_all_metrics.csv",
+    "robustness_before_norm": "/content/drive/MyDrive/Deep/vietnamese-toxic-comment-classification/outputs/results/note08/robustness_metrics_before_norm.csv",
+    "robustness_after_norm": "/content/drive/MyDrive/Deep/vietnamese-toxic-comment-classification/outputs/results/note08/robustness_metrics_after_norm.csv",
+    "normalization_recovery": "/content/drive/MyDrive/Deep/vietnamese-toxic-comment-classification/outputs/results/note08/normalization_recovery_summary.csv",
+    "augmentation_comparison": "/content/drive/MyDrive/Deep/vietnamese-toxic-comment-classification/outputs/results/note08/augmentation_vs_original_comparison.csv",
+    "multilingual_comparison": "/content/drive/MyDrive/Deep/vietnamese-toxic-comment-classification/outputs/results/note08/multilingual_vs_phobert_comparison.csv",
+    "normalization_module": "/content/drive/MyDrive/Deep/vietnamese-toxic-comment-classification/src/normalization.py"
+  }
+}

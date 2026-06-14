@@ -1,0 +1,15 @@
+path,exists
+/content/drive/MyDrive/Deep/vietnamese-toxic-comment-classification/outputs/results/note08b/bilstm_robustness_metrics.csv,True
+/content/drive/MyDrive/Deep/vietnamese-toxic-comment-classification/outputs/results/note08b/bilstm_robustness_predictions.csv,True
+/content/drive/MyDrive/Deep/vietnamese-toxic-comment-classification/outputs/results/note08b/svm_vs_bilstm_error_comparison.csv,True
+/content/drive/MyDrive/Deep/vietnamese-toxic-comment-classification/outputs/results/note08b/bilstm_failure_summary.csv,True
+/content/drive/MyDrive/Deep/vietnamese-toxic-comment-classification/outputs/results/note08b/bilstm_failure_examples.csv,True
+/content/drive/MyDrive/Deep/vietnamese-toxic-comment-classification/outputs/results/note08b/phobert_augmented_training_log.csv,True
+/content/drive/MyDrive/Deep/vietnamese-toxic-comment-classification/outputs/results/note08b/phobert_augmented_robustness_metrics.csv,True
+/content/drive/MyDrive/Deep/vietnamese-toxic-comment-classification/outputs/results/note08b/phobert_augmented_robustness_predictions.csv,True
+/content/drive/MyDrive/Deep/vietnamese-toxic-comment-classification/outputs/results/note08b/augmentation_all_models_metrics.csv,True
+/content/drive/MyDrive/Deep/vietnamese-toxic-comment-classification/outputs/results/note08b/augmentation_all_models_comparison.csv,True
+/content/drive/MyDrive/Deep/vietnamese-toxic-comment-classification/outputs/results/note08b/augmentation_gain_by_model.csv,True
+/content/drive/MyDrive/Deep/vietnamese-toxic-comment-classification/outputs/models/note08b/bilstm_original_recheck/bilstm_best.pt,True
+/content/drive/MyDrive/Deep/vietnamese-toxic-comment-classification/outputs/models/note08b/bilstm_augmented_mixed/bilstm_best.pt,True
+/content/drive/MyDrive/Deep/vietnamese-toxic-comment-classification/outputs/models/note08b/phobert_augmented_mixed,True

@@ -1,0 +1,20 @@
+{
+  "created_at": "2026-06-10T12:31:51",
+  "project_root": "/content/drive/MyDrive/Deep/vietnamese-toxic-comment-classification",
+  "model_dir": "outputs/models/note08b/phobert_augmented_mixed",
+  "normalization_source": "fallback",
+  "policy_mode": "balanced",
+  "batch_size": 16,
+  "normalize_input": true,
+  "external_comments_path": "data/external/external_comments.csv",
+  "num_external_comments": 64,
+  "num_toxic_phrases": 2000,
+  "device": "cpu",
+  "outputs": {
+    "external_test_predictions": "outputs/results/note09/external_test_predictions.csv",
+    "moderation_decisions": "outputs/results/note09/moderation_decisions.csv",
+    "moderation_case_analysis": "outputs/results/note09/moderation_case_analysis.csv",
+    "demo_cases": "outputs/results/note09/demo_cases.csv"
+  },
+  "interpretation": "Qualitative external moderation analysis; not an accuracy benchmark."
+}

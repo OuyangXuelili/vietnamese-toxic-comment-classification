@@ -1,0 +1,37 @@
+{
+  "seed": 42,
+  "project_root": "/content/drive/MyDrive/Deep/vietnamese-toxic-comment-classification",
+  "bilstm_config": {
+    "max_len": 128,
+    "min_freq": 2,
+    "max_vocab_size": 60000,
+    "embedding_dim": 128,
+    "hidden_dim": 256,
+    "num_layers": 2,
+    "dropout": 0.4,
+    "batch_size": 128,
+    "epochs": 20,
+    "patience": 4,
+    "lr": 0.001,
+    "weight_decay": 1e-05,
+    "grad_clip": 1.0
+  },
+  "phobert_config": {
+    "model_name": "vinai/phobert-base",
+    "max_length": 128,
+    "batch_size": 16,
+    "epochs": 3,
+    "patience": 2,
+    "lr": 2e-05,
+    "weight_decay": 0.01,
+    "warmup_ratio": 0.06,
+    "grad_clip": 1.0,
+    "use_fp16": true
+  },
+  "labels": [
+    "CLEAN",
+    "OFFENSIVE",
+    "HATE"
+  ],
+  "note": "08b final: reuse Note 8 augmented/noisy data only; train BiLSTM and PhoBERT more seriously; analyze SVM vs BiLSTM failures"
+}

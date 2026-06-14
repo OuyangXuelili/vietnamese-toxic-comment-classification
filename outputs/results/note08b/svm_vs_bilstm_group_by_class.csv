@@ -1,0 +1,13 @@
+comparison_group,true_label,count
+bilstm_right_svm_wrong,CLEAN,100
+bilstm_right_svm_wrong,HATE,86
+bilstm_right_svm_wrong,OFFENSIVE,57
+both_right,CLEAN,4846
+both_right,HATE,308
+both_right,OFFENSIVE,115
+both_wrong,CLEAN,214
+both_wrong,HATE,214
+both_wrong,OFFENSIVE,227
+svm_right_bilstm_wrong,CLEAN,388
+svm_right_bilstm_wrong,HATE,80
+svm_right_bilstm_wrong,OFFENSIVE,45

@@ -1,0 +1,9 @@
+path,exists
+/content/drive/MyDrive/Deep/vietnamese-toxic-comment-classification/data/robustness/augmented_train_mixed.csv,True
+/content/drive/MyDrive/Deep/vietnamese-toxic-comment-classification/data/robustness/test_clean.csv,True
+/content/drive/MyDrive/Deep/vietnamese-toxic-comment-classification/data/robustness/test_no_accent.csv,True
+/content/drive/MyDrive/Deep/vietnamese-toxic-comment-classification/data/robustness/test_repeated_char.csv,True
+/content/drive/MyDrive/Deep/vietnamese-toxic-comment-classification/data/robustness/test_special_char.csv,True
+/content/drive/MyDrive/Deep/vietnamese-toxic-comment-classification/data/robustness/test_masked_word.csv,True
+/content/drive/MyDrive/Deep/vietnamese-toxic-comment-classification/data/robustness/test_slang_teencode.csv,True
+/content/drive/MyDrive/Deep/vietnamese-toxic-comment-classification/data/robustness/test_mixed_noise.csv,True

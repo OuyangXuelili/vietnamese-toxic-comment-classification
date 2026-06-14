@@ -1,0 +1,17 @@
+{
+  "project_name": "Robust and Explainable Vietnamese Toxic Comment Moderation System",
+  "primary_model": "phobert_augmented_mixed",
+  "primary_model_path": "outputs/models/note08b/phobert_augmented_mixed",
+  "fallback_model": null,
+  "default_app_mode": "full_phobert",
+  "normalization_enabled": true,
+  "normalization_source": "fallback",
+  "span_explainer": "rule_based_deployable",
+  "span_resource_candidates": [
+    "outputs/resources/toxic_span_highlighter_rules.json",
+    "outputs/resources/span_explainer_config.json",
+    "outputs/resources/toxic_phrases_candidates_train.csv"
+  ],
+  "policy_mode": "balanced",
+  "external_demo_cases": "outputs/results/note09/demo_cases.csv"
+}

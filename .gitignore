@@ -1,13 +1,29 @@
 .venv/
 __pycache__/
 .ipynb_checkpoints/
-*.pyc
+*.py[cod]
 *.pyo
 *.pyd
 .DS_Store
+
+# Local runtime files
 .streamlit/
-outputs/models/phobert_base/checkpoint/
+*.log
+*.err.log
+qa_screenshots/
+
+# Trained model artifacts and checkpoints are too large for normal Git.
 outputs/models/
-# outputs/results/
+outputs/**/checkpoint/
 *.safetensors
 *.bin
+*.pt
+*.h5
+*.msgpack
+
+# Large generated notebook intermediates.
+outputs/resources/note08b/
+outputs/results/**/*predictions*.csv
+outputs/results/**/reused_*_index*.csv
+outputs/results/**/robustness_test_index*.csv
+data/robustness/*augmented_train*.csv

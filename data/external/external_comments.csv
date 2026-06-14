@@ -1,0 +1,65 @@
+﻿sample_id,text,case_type,expected_behavior,note
+ex001,"Bạn nói chuyện rất dễ thương, cảm ơn nhé.",clean,allow,positive clean comment
+ex002,Mình không đồng ý với quan điểm này nhưng vẫn tôn trọng bạn.,clean,allow,polite disagreement
+ex003,Bài viết này cần thêm bằng chứng chứ đừng kết luận vội.,clean,allow,critical but non-toxic
+ex004,Tôi thấy cách diễn đạt hơi khó hiểu.,clean,allow,neutral feedback
+ex005,Cảm ơn bạn đã chia sẻ thông tin.,clean,allow,clean
+ex006,"Cái này sai rồi, bạn kiểm tra lại giúp mình.",clean,allow,non-toxic correction
+ex007,Mày nói chuyện ngu thật.,offensive,warn_or_review,direct insult
+ex008,"Đồ ngu, đọc lại đi rồi hãy nói.",offensive,warn_or_review,direct insult
+ex009,"Cút đi, đừng bình luận nữa.",offensive,warn_or_review,dismissive abuse
+ex010,Nói chuyện mất dạy quá.,offensive,warn_or_review,offensive phrase
+ex011,"Bớt xàm đi, nghe mệt thật sự.",offensive,warn_or_review,mild insult
+ex012,Đừng có làm trò rác rưởi ở đây.,offensive,warn_or_review,abusive phrase
+ex013,Mày đúng là đồ điên.,offensive,warn_or_review,direct insult
+ex014,Cái kiểu nói chuyện này thật khốn.,offensive,warn_or_review,abusive phrase
+ex015,Tao không muốn nghe mày nói nữa.,offensive,warn_or_review,aggressive tone
+ex016,"Đồ chó chết, biến đi.",abusive,block_or_escalate,strong abuse
+ex017,Mày là thứ rác rưởi.,abusive,block_or_escalate,strong abuse
+ex018,Đúng là súc vật mới nói vậy.,abusive,block_or_escalate,dehumanizing abuse
+ex019,"Nói vậy mà cũng nói được, óc chó thật.",abusive,block_or_escalate,strong insult
+ex020,"Đừng xuất hiện ở đây nữa, đồ khốn.",abusive,block_or_escalate,strong abuse
+ex021,may noi chuyen ngu that,no_accent,normalize_then_flag,no accent offensive
+ex022,do ngu doc lai di,no_accent,normalize_then_flag,no accent insult
+ex023,cut di dung binh luan nua,no_accent,normalize_then_flag,no accent abuse
+ex024,noi chuyen mat day qua,no_accent,normalize_then_flag,no accent offensive
+ex025,bai viet nay rat hay cam on ban,no_accent_clean,allow,no accent clean
+ex026,mày nguuuuu vl,repeated_char,normalize_then_flag,repeated character toxic
+ex027,đồ chóooo chết,repeated_char,normalize_then_flag,repeated character abusive
+ex028,cútttt đi,repeated_char,normalize_then_flag,repeated character offensive
+ex029,bạn dễ thương quáaaa,repeated_char_clean,allow,repeated char clean
+ex030,m.à.y n*g*u vl,special_mask,normalize_then_flag,masked offensive
+ex031,đ.ồ ch.ó ch.ết,special_mask,normalize_then_flag,masked abuse
+ex032,c_u_t đi,special_mask,normalize_then_flag,masked offensive
+ex033,bạn nói rất h.a.y,special_mask_clean,allow,masked clean
+ex034,ko thích cái kiểu nói chuyện này,teencode,allow_or_warn,teencode mild
+ex035,m nói ngu vl,teencode,warn_or_review,teencode offensive
+ex036,t thấy bạn hơi quá lời,teencode_clean,allow,teencode clean
+ex037,may nguuuu vl do cho,mixed_noise,normalize_then_flag,mixed toxic
+ex038,d.o n.g.u c.ut di,mixed_noise,normalize_then_flag,mixed masked toxic
+ex039,ko co gi dau ban noi tiep di,mixed_noise_clean,allow,mixed clean
+ex040,"Bạn giỏi quá ha, nói câu nào cũng sai.",ambiguous,review_if_uncertain,sarcasm borderline
+ex041,Không biết nên cười hay khóc với ý kiến này.,ambiguous,allow_or_review,sarcastic but not explicit
+ex042,Ý kiến này tệ nhưng mình sẽ không công kích cá nhân.,ambiguous,allow,critical non-toxic
+ex043,Bạn nên đọc kỹ hơn trước khi bình luận.,borderline,allow,firm but not toxic
+ex044,Nói thật là cách bạn phản hồi hơi khó chịu.,borderline,allow_or_warn,borderline tone
+ex045,Đừng spam nữa nhé.,borderline,allow,moderation-like clean
+ex046,Spam nữa là mình report đó.,borderline,allow_or_warn,warning but not toxic
+ex047,Đồ ngu mà cứ thích thể hiện.,offensive,warn_or_review,direct insult
+ex048,Mày đúng là hết thuốc chữa.,offensive,warn_or_review,personal attack
+ex049,Chán cái cách nói chuyện vô duyên này.,borderline,allow_or_warn,negative but mild
+ex050,"Không thích thì góp ý, đừng xúc phạm người khác.",clean,allow,anti-toxic clean
+ex051,"Bình luận này không phù hợp, nên dừng lại.",clean,allow,moderation clean
+ex052,Tao thấy mày nói chuyện rất mất dạy.,offensive,warn_or_review,insult
+ex053,Mấy câu này nghe rất khó chịu.,clean,allow,negative clean
+ex054,đm nói gì kỳ vậy,offensive,warn_or_review,profanity
+ex055,dm noi gi ky vay,no_accent,normalize_then_flag,no accent profanity
+ex056,d.m n.o.i g.i k.y,special_mask,normalize_then_flag,masked profanity
+ex057,Bạn trình bày thiếu logic nhưng mình hiểu ý chính.,clean,allow,constructive criticism
+ex058,Ngu thì im đi.,offensive,warn_or_review,short toxic
+ex059,ngu thi im di,no_accent,normalize_then_flag,short no accent toxic
+ex060,n.g.u thì im đi,special_mask,normalize_then_flag,short masked toxic
+ex061,Mình nghĩ bình luận này có thể gây hiểu lầm.,clean,allow,clean
+ex062,Bạn nói vậy là thiếu tôn trọng người khác.,clean,allow,criticism of behavior
+ex063,Tắt máy học lại đi.,offensive,warn_or_review,mild insult
+ex064,Bớt nói linh tinh lại.,borderline,allow_or_warn,borderline

@@ -1,0 +1,321 @@
+model_name,train_setting,noise_type,eval_text_variant,text,y_true,y_pred,true_label,pred_label
+svm_saved_baseline,original_artifact,clean,before_norm,Đừng cố biện minh =)))) choi lon,0,2,CLEAN,HATE
+svm_saved_baseline,original_artifact,clean,before_norm,Haizz. Nthe này thì dân khổ quá,1,0,OFFENSIVE,CLEAN
+svm_saved_baseline,original_artifact,clean,before_norm,the nay ma chi phat gay roi trat tu cong cong thoi a dung la dan minh,0,2,CLEAN,HATE
+svm_saved_baseline,original_artifact,clean,before_norm,coin card :3,1,0,OFFENSIVE,CLEAN
+svm_saved_baseline,original_artifact,clean,before_norm,"Lý khùng thì có,kk",0,1,CLEAN,OFFENSIVE
+svm_saved_baseline,original_artifact,clean,before_norm,"Đề nghị 17, 22,23,32 đến phà vài hơi vào mẹt tk này để nó đi cách ly thế giới hẳn đi.",2,0,HATE,CLEAN
+svm_saved_baseline,original_artifact,clean,before_norm,"Nhà Xa trường học, nhà gần cầu tiêu câu nói đã gắn sâu vào đầu tao :)))))",0,2,CLEAN,HATE
+svm_saved_baseline,original_artifact,clean,before_norm,Phét,0,2,CLEAN,HATE
+svm_saved_baseline,original_artifact,clean,before_norm,"Chi bà nhiều tiền thì đi làm từ thiện,còn ơ đó nói tục tiểu, giơ bẩn. Làm nhục người vn trên thế giới. Làm bai hoại nền văn hóa vn. Xin yêu các cấp có thẩm quyền vào cuộc sử lý.",0,2,CLEAN,HATE
+svm_saved_baseline,original_artifact,clean,before_norm,Một phút bóc đồng bằng cả đời bóc cức 😂,1,2,OFFENSIVE,HATE
+svm_saved_baseline,original_artifact,clean,before_norm,Bà này nói đúng mà bà đó đi làm o sin gửi tiền đô về Việt Nam hưởng chứ tiền Việt Nam lam gì có giá trị tuy bà nói chuyện thô lỗ tí nhưng mà bà nói đúng mà...,0,2,CLEAN,HATE
+svm_saved_baseline,original_artifact,clean,before_norm,Gần đất xa trời rồi nói ít thôi,0,2,CLEAN,HATE
+svm_saved_baseline,original_artifact,clean,before_norm,bán hàng rẻ ko thơm lâu thì nói không thơm lâu . nói hàng fake . mắc j quảng bá làm như tốt lắm .,0,1,CLEAN,OFFENSIVE
+svm_saved_baseline,original_artifact,clean,before_norm,Nhìn mặt bà này ...,0,2,CLEAN,HATE
+svm_saved_baseline,original_artifact,clean,before_norm,Nghĩ mà chán :)),0,1,CLEAN,OFFENSIVE
+svm_saved_baseline,original_artifact,clean,before_norm,Đem ra bắn ngay cái thể loại ấy,2,0,HATE,CLEAN
+svm_saved_baseline,original_artifact,clean,before_norm,Lờ ô lờ ôn lờ ôn lôn huyền CHIM:)),0,1,CLEAN,OFFENSIVE
+svm_saved_baseline,original_artifact,clean,before_norm,Con bóng??,0,2,CLEAN,HATE
+svm_saved_baseline,original_artifact,clean,before_norm,Bàn tay em đẹp quá. Nhìn chị là đàn bà mà xấu quá..,2,0,HATE,CLEAN
+svm_saved_baseline,original_artifact,clean,before_norm,Cái mặt con bò biểu cảm vãi haha.... đhs tự nhiên thèm thịt bò khô,1,0,OFFENSIVE,CLEAN
+svm_saved_baseline,original_artifact,clean,before_norm,Lại thêm một con khoác lác,0,2,CLEAN,HATE
+svm_saved_baseline,original_artifact,clean,before_norm,Like 10 năm chất Liek bằng đầu bùi,1,0,OFFENSIVE,CLEAN
+svm_saved_baseline,original_artifact,clean,before_norm,Nhức óc thật,0,1,CLEAN,OFFENSIVE
+svm_saved_baseline,original_artifact,clean,before_norm,Không có csgt nào tốt cả .,2,0,HATE,CLEAN
+svm_saved_baseline,original_artifact,clean,before_norm,Một u nhọt quá lớn thì cần phải cắt bỏ nó đi chứ ko nên điều trị bằng thuốc tiếp tiền mất tật vẫn mang!!,0,2,CLEAN,HATE
+svm_saved_baseline,original_artifact,clean,before_norm,Nguyễn Hoàng Sâm nôn link ra,0,2,CLEAN,HATE
+svm_saved_baseline,original_artifact,clean,before_norm,Lũlên mạng lừa đão,2,0,HATE,CLEAN
+svm_saved_baseline,original_artifact,clean,before_norm,"trung quốc sản sinh ra 1 thế hệ bác sỹ thật sự có tâm đức, dù truyền thông phương tây có bôi nhọ tnao thì cũng k thể phủ nhận",0,2,CLEAN,HATE
+svm_saved_baseline,original_artifact,clean,before_norm,Đậu rồi má hay đậu má rồi các bạn nhỏ ??? :))),1,0,OFFENSIVE,CLEAN
+svm_saved_baseline,original_artifact,clean,before_norm,GAM thua cái củ cặc nhé !!,1,2,OFFENSIVE,HATE
+svm_saved_baseline,original_artifact,clean,before_norm,K có nghìn nào giúp dân thì nín đi!,2,0,HATE,CLEAN
+svm_saved_baseline,original_artifact,clean,before_norm,Bỏ măy con điếm đấy đi là thông minh đấy,2,1,HATE,OFFENSIVE
+svm_saved_baseline,original_artifact,clean,before_norm,Ko xin nó thì đái ra mà hết hạn hán nhé,2,0,HATE,CLEAN
+svm_saved_baseline,original_artifact,clean,before_norm,Nguc em hoi nho,1,0,OFFENSIVE,CLEAN
+svm_saved_baseline,original_artifact,clean,before_norm,200.000 hộp thuốc giết người.,1,0,OFFENSIVE,CLEAN
+svm_saved_baseline,original_artifact,clean,before_norm,Cái mặt là nhìn dell ưa nổi với bị nứng lâu năm,2,1,HATE,OFFENSIVE
+svm_saved_baseline,original_artifact,clean,before_norm,CÓ THẰNG THÔNG THẠO 29 THỨ TIẾNG LÀM CHỦ TỊCH PẮC PÓ,2,0,HATE,CLEAN
+svm_saved_baseline,original_artifact,clean,before_norm,Ngoài mình kêu con này là cua xanh tên khác là cua chó bởi vì nó dữ lắm,0,2,CLEAN,HATE
+svm_saved_baseline,original_artifact,clean,before_norm,Cái mỏ i chang cá lóc lun,0,2,CLEAN,HATE
+svm_saved_baseline,original_artifact,clean,before_norm,Sạo loxz quền của chị 3,2,0,HATE,CLEAN
+svm_saved_baseline,original_artifact,clean,before_norm,Thèm bún real vl :)),0,1,CLEAN,OFFENSIVE
+svm_saved_baseline,original_artifact,clean,before_norm,"ở minh bi đc vao vien khám , con ở bọn nc thấy bao la phat triẻn thi ve nha tự cách ly",0,2,CLEAN,HATE
+svm_saved_baseline,original_artifact,clean,before_norm,Đéo phải đá vs MC chả cười?,1,0,OFFENSIVE,CLEAN
+svm_saved_baseline,original_artifact,clean,before_norm,Bao giờ chết,1,0,OFFENSIVE,CLEAN
+svm_saved_baseline,original_artifact,clean,before_norm,Thật ra là quên kéo khóa quần ngoài lộ quần trong nên để lộ hẳn thành phong cách mới cho nó đỡ quê,1,0,OFFENSIVE,CLEAN
+svm_saved_baseline,original_artifact,clean,before_norm,Lên vl luôn,0,1,CLEAN,OFFENSIVE
+svm_saved_baseline,original_artifact,clean,before_norm,hỏng khóa hay gì :vv,0,2,CLEAN,HATE
+svm_saved_baseline,original_artifact,clean,before_norm,qua học trình độ chặt cây mà ko bị dân chửi của trung quốc.,0,2,CLEAN,HATE
+svm_saved_baseline,original_artifact,clean,before_norm,90tr dân Việt Nam đang vả nhung nè,2,0,HATE,CLEAN
+svm_saved_baseline,original_artifact,clean,before_norm,"Thế là tự các ông suy ra chữ thiên đường, tự nhét chữ vào mồm chứ đảng ko nói đúng ko",2,1,HATE,OFFENSIVE
+svm_saved_baseline,original_artifact,clean,before_norm,Người dân biểu tình phản đối thằng ăn cướp bị bọn mày bắt bớ đánh đập thì tụi mày là cái gì,0,2,CLEAN,HATE
+svm_saved_baseline,original_artifact,clean,before_norm,share bài này là lũ ban cắn chết nên thôi :))),0,2,CLEAN,HATE
+svm_saved_baseline,original_artifact,clean,before_norm,Ráng sống diễn hài cho mấy con coi nhé bác TD,0,2,CLEAN,HATE
+svm_saved_baseline,original_artifact,clean,before_norm,"Lí do lí trấu, chắc tin😏:)))",1,0,OFFENSIVE,CLEAN
+svm_saved_baseline,original_artifact,clean,before_norm,Bốc sư tất nhiên là xạo quá ròi tất nhiên là súng bắn không tói ông nhưng tất nhiên rằng corona tất nhiên là sẽ tới thăm viếng bốc sư tất nhiên,2,0,HATE,CLEAN
+svm_saved_baseline,original_artifact,clean,before_norm,Lắm tiền mà chả có nổi ý thức của loài người :)),1,2,OFFENSIVE,HATE
+svm_saved_baseline,original_artifact,clean,before_norm,"Mọi người quá lịch sự với tên khốn này rồi , cha đứa bé bị đánh nên ra tay cho nó thành tật đi đừng hi vọng nhiều ở luật pháp.",2,0,HATE,CLEAN
+svm_saved_baseline,original_artifact,clean,before_norm,Bắn chet moe abe h,2,0,HATE,CLEAN
+svm_saved_baseline,original_artifact,clean,before_norm,"Có ai tự nhiên lên phường , rồi đi tự tử trên ấy không ? Giờ thằng nào con nào , muốn tự tự thì cứ việc lên phường cho nó gọn . Đỡ bị mất tài sản , với lại người nhà cũng dễ tìm nhá . chứ đừng có ra cầu rồi nhảy nghe hôn .",1,0,OFFENSIVE,CLEAN
+svm_saved_baseline,original_artifact,clean,before_norm,"Chat la kiep truoc bi cam, 🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏toi ngiep cho mu nay qua ko biet kiep sao thanh loai gi nua 🙏🙏🙏🙏",2,0,HATE,CLEAN
+svm_saved_baseline,original_artifact,clean,before_norm,"Đậu Văn Cường nhìn như thằng nghiện, ghê bỏ mẹ ra",0,2,CLEAN,HATE
+svm_saved_baseline,original_artifact,clean,before_norm,Kg Phan dong may' chui vao trong nay lam gi ?,1,2,OFFENSIVE,HATE
+svm_saved_baseline,original_artifact,clean,before_norm,Cái đờ cờ mờ nhà a,2,1,HATE,OFFENSIVE
+svm_saved_baseline,original_artifact,clean,before_norm,cái miệng rộng qua đẻ con ra còn lọt,1,2,OFFENSIVE,HATE
+svm_saved_baseline,original_artifact,clean,before_norm,"Clip cũ roi lúc no ban hàng , chui khách hàng , quen miệng , lu nay lu kia , gio kho mà ai bo qua duoc",0,2,CLEAN,HATE
+svm_saved_baseline,original_artifact,clean,before_norm,cô Ba có râu ha ha,2,0,HATE,CLEAN
+svm_saved_baseline,original_artifact,clean,before_norm,R.I.P Anh thị bò dát vàng,0,2,CLEAN,HATE
+svm_saved_baseline,original_artifact,clean,before_norm,Phát Thịnh thầy tui như thằng xì ke.,2,0,HATE,CLEAN
+svm_saved_baseline,original_artifact,clean,before_norm,"Nam Đặng đời nó là thế ,lồn mẹ dell thấy có cái lồn gì là vui cả",1,2,OFFENSIVE,HATE
+svm_saved_baseline,original_artifact,clean,before_norm,Chi oi chi chua gap bac ky dau .chi ma gap roi chi khong con kip keu mot tieng troi dau chi ak.it nhat chi cung nghi den nguoi nha chi chu.chi o dai loan ma chi dang noi tieng viet ma .chi tu chui minh thoi.nguoi ta khong xem chi ra ji nen nguoi ta goi noi vay thay loi xi nhuc do.,2,0,HATE,CLEAN
+svm_saved_baseline,original_artifact,clean,before_norm,Thêm cái gì mà thêm. T đếch thèm qt đến vì chưa có thông báo nghĩ học 🙈,1,0,OFFENSIVE,CLEAN
+svm_saved_baseline,original_artifact,clean,before_norm,Mis Nhung,0,2,CLEAN,HATE
+svm_saved_baseline,original_artifact,clean,before_norm,Kiểu như bác nói ẩn ý là việt nam không sợ bố con thằng nào chứ dăm ba con virut này thì có tuổi với VN à :v,0,2,CLEAN,HATE
+svm_saved_baseline,original_artifact,clean,before_norm,Đạt Phạm dcu m đùa dai như tk bố m thế,2,0,HATE,CLEAN
+svm_saved_baseline,original_artifact,clean,before_norm,"Dân không có giàu nhé, chỉ nó nước mạnh thôi.",0,2,CLEAN,HATE
+svm_saved_baseline,original_artifact,clean,before_norm,"Công nghệ làm trụ cột điện nhé các bạn. Đẹp, rẻ nhưng đéo bền để thuận lợi cho việc kiếm chác. Đang rất khả thi và đã dc tiến hành thí điểm ở 1 số vùng. Nếu có ăn sẽ nhân rộng ra trên mọi địa bàn của cả nước =))",0,2,CLEAN,HATE
+svm_saved_baseline,original_artifact,clean,before_norm,Cô hồn nha mấy đứa,0,2,CLEAN,HATE
+svm_saved_baseline,original_artifact,clean,before_norm,Không giống ai,1,0,OFFENSIVE,CLEAN
+svm_saved_baseline,original_artifact,clean,before_norm,Đã nói bao lần rồi các anh các chị có tiền đi du lịch vẫn đ** hiểu à😒,2,0,HATE,CLEAN
+svm_saved_baseline,original_artifact,clean,before_norm,Đẳng cấp đấy nhưng ý thức hơi kém,1,2,OFFENSIVE,HATE
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,Haizz. Ntheeee nayyyy t*********i dannnn khoooo quaaaa,1,0,OFFENSIVE,CLEAN
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,coinnnn c***********d :3333,1,0,OFFENSIVE,CLEAN
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,setttt doooo deeee c.a.c*cc vannnn dongggg viennnn annnn tetttt sauuuu vfffff quannnn lyyyy tiennnn thuong,0,1,CLEAN,OFFENSIVE
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,Thayyyy n******u,2,0,HATE,CLEAN
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,(YYYY) pageeee nayyyy adddd noooo kiennnn thuc*cc uyennnn sauuuu lammmm tuuuu xayyyy dungggg taiiii chinh yyyy teeee caiiii jjjj nnnn cungggg ammmm hieuuuu =)))) n.g.uuuu dotttt + nhiet tinhhhh = phaaaa hoaiiii koooo saiiii bhhhh,2,1,HATE,OFFENSIVE
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,"Deeee nghiiii 17777, 22,23,32 dennnn phaaaa vaiiii hoiiii vaoooo m*tttt tkkkk nayyyy deeee noooo diiii c.a.chhhh lyyyy theeee gioiiii hannnn diiii.",2,0,HATE,CLEAN
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,Trannnn Linhhhh delllll h***********u kieuuuu jjjj :)),1,0,OFFENSIVE,CLEAN
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,"koooo noiiii thiiii tuuuu kieu,noi thiiii laiiii tuuuu aiiii chuuuu iiii thuc.c*c theeee aiiii maaaa chiuuuu noiiii😡",1,0,OFFENSIVE,CLEAN
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,n.g.uyennnn Ngoc*cc Linhhhh xetttt nghiem matttt 10000 tieng moiiii coooo kp.ai ranhhhh deeee xepppp hangggg doiiii 10000 tieng moiiii dcccc hiennnn mauuuu dauuuu,0,1,CLEAN,OFFENSIVE
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,Motttt phutttt boc.c*c dongggg bangggg caaaa doiiii bocccc cucccc 😂,1,0,OFFENSIVE,CLEAN
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,Oiiii boooo caiiii luuuu thanh niennnn h*********m lollll. Depppp matttt quaaaa 😒😒,2,0,HATE,CLEAN
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,Truoc.c*c sauuuu jjjj cungggg diiii theoooo phucccc xaoooo lollll,2,0,HATE,CLEAN
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,Theoooo trung congggg diiii rrrr dennnn luc.c*c koooo connnn loiiii dungggg dcccc baaaa seeee thayyyy canh. Hayyyy nhoooo cauuuu dungggg ngheeee nhung jjjj cssss noiiii ma..😂😂😂,2,0,HATE,CLEAN
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,Congggg annnn maaaa muonnnn xuuuu lyyyy thiiii 2222 ongggg luatttt suuuu nayyyy seeee biennnn matttt ngayyyy lapppp tuc*cc. Chuuuu chaaaa phaiiii biiii danhhhh giuaaaa duong rrrr chupppp anhhhh mauuuu m.eeee postttt lennnn mangggg rammmm rammmm dauuuu,0,1,CLEAN,OFFENSIVE
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,Doc*cc ratttt diennnn cammmm 10000 diemmmm veeee c.h.oooo,0,1,CLEAN,OFFENSIVE
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,Connnn beeee nayyyy nennnn xuong diaaaa n.g.uc*cc quaaaa tommmm,2,1,HATE,OFFENSIVE
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,Demmmm raaaa bannnn ngayyyy c*********i theeee loaiiii ayyyy,2,0,HATE,CLEAN
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,zzzz veeee c.h.oooo cannnn boooo xayyyy bietttt thuuuu connnn emmmm diiii duuuu hoc*cc,0,1,CLEAN,OFFENSIVE
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,Haiiii Yennnn boooo c*********i connnn thaiiii loooo,2,0,HATE,CLEAN
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,"Minhhhh dungggg noiiii xaoooo noiiii laoooo nvvvv chiiii koooo t*******h zzzz , viiii chiiii laaaa chuaaaa noiiii xaoooo rrrr",2,0,HATE,CLEAN
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,Bannnn tayyyy emmmm depppp quaaaa Nhinnnn c*********i laaaa dannnn baaaa maaaa xauuuu quaaaa,2,0,HATE,CLEAN
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,Caiiii matttt connnn boooo bieuuuu cammmm vaiiii h*************. dhssss tuuuu nhien themmmm thitttt boooo khoooo,1,0,OFFENSIVE,CLEAN
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,v******l,1,0,OFFENSIVE,CLEAN
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,khiiii bannnn muonnnn tichhhh duc*cc c.h.oooo doiiii nhung nghiep quaaaa nangggg taiiii chung ruaaaa quaaaa nennnn nghiep:v,0,1,CLEAN,OFFENSIVE
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,Likeeee 10000 nammmm chatttt L***********k bangggg dauuuu buiiii,1,0,OFFENSIVE,CLEAN
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,koooo coooo csgtttt n*********o totttt caaaa .,2,0,HATE,CLEAN
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,Nhuuuu lollll a*********h baaaa,2,0,HATE,CLEAN
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,Motttt uuuu nhotttt quaaaa l.o.nnnn thiiii cannnn phaiiii catttt boooo noooo diiii chuuuu koooo nennnn dieuuuu triiii bangggg thuoc*cc tiepppp tiennnn matttt tatttt vannnn mang!!,0,1,CLEAN,OFFENSIVE
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,Nhinnnn giong satttt t*********u mauuuu lanhhhh,0,1,CLEAN,OFFENSIVE
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,Connnn nayyyy chatttt kiepppp sauuuu noooo moiiii thayyyy doiiii tinh.no koooo connnn thuocccc chuaaaa roi.con CORONA VIRUT cangggg noooo c.h.oooo noooo benhhhh chetttt di.dong hoooo baaaa doiiii nhaaaa noooo biiii benhhhh corona virut c*oooo noooo bietttt theeee naoooo laaaa dauuuu khoooo.,2,0,HATE,CLEAN
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,Lulen mangggg l*********a daoooo,2,0,HATE,CLEAN
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,"Connnn bongggg duc*cc kiaaaa cungggg laaaa dangggg dauuuu trauuuu matttt n.g.uaaaa, 2222 matttt, ninhhhh boooo.",2,1,HATE,OFFENSIVE
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,c.a.c*cc bannnn phannnn doiiii caiiii gieeee. Viennnn phiiii tangggg gapppp 3333 ngannnn sachhhh boiiii thuuuu. Lammmm totttt theeee maaaa connnn keuuuu.,0,1,CLEAN,OFFENSIVE
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,Annnn tetttt d*********o ngonnnn,1,0,OFFENSIVE,CLEAN
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,Trannnn Sangggg oooo c.c*cc,2,1,HATE,OFFENSIVE
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,"Deoooo hieuuuu aiiii laaaa boooo aiiii laaaa connnn trong caiiii giaaaa dinhhhh nayyyy , m.etttt v*lll dennnn tuuuu soiiii gaming",1,0,OFFENSIVE,CLEAN
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,"aiiii cungggg bietttt laaaa tiennnn thueeee dangggg dc*cc ""quan lyyyy totttt"" nhung hauuuu hetttt moiiii n.g.uoiiii laiiii quannnn tammmm caiiii quaaaa khuuuu tuoiiii dayyyy thiiii cuaaaa connnn nhoooo hoaaaa hauuuu honnnn =))",0,2,CLEAN,HATE
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,tttt thiet nghiiii chiiii dongggg loaiiii laaaa koooo annnn nhauuuu thoiiii chuuuu jjjj annnn dc*cc cuuuu annnn.. connnn baaaa maaaa naoooo lennnn annnn thiiii cuuuu cammmm bangggg bieuuuu tinhhhh dungggg truocccc qannnn thitttt c.h.oooo laaaa oooo xemmmm saoooo (((((:,0,1,CLEAN,OFFENSIVE
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,khonnnn n*********n,1,0,OFFENSIVE,CLEAN
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,koooo coooo nghin naoooo g***********p dannnn thiiii ninnnn diiii!,2,0,HATE,CLEAN
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,Boooo mayyyy connnn diemmmm dayyyy d*******i laaaa thong minhhhh dayyyy,2,0,HATE,CLEAN
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,"Dannnn koooo coooo giauuuu nheeee, chiiii noooo nuoc.c*c manhhhh thoi.",2,0,HATE,CLEAN
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,Koooo xinnnn noooo thiiii daiiii r*******a maaaa hetttt hannnn hannnn nheeee,2,0,HATE,CLEAN
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,nhinnnn nungggg gkeeee a*******k abeeee oi!!!,1,0,OFFENSIVE,CLEAN
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,Theoooo doiiii FBBBB coooo Cammmm Lannnn Suc*cc nheeee c.a.cccc emmmm:,0,1,CLEAN,OFFENSIVE
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,TTTT m**m n.g.uuuu,2,0,HATE,CLEAN
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,Cauuuu Dongggg gioooo ongggg coooo tiennnn ongggg dc*cc diiii raaaa c.a.cccc nuocccc phatttt trien honnnn thiiii ongggg ntnnnn ??,0,1,CLEAN,OFFENSIVE
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,Phannnn Thiiii Myyyy Dungggg bac*cc c.h.oooo emmmm xinnnn linkkkk boooo tocccc aaaa,0,1,CLEAN,OFFENSIVE
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,"phaiiii theeee moiiii m*eee dcccc mayyyy thang l.o.nnnn viiii phammmm luatttt giaoooo thong chuuuu , batttt hetttt connnn meeee tuiiii noooo diiii mayyyy anhhhh oiiii .",2,0,HATE,CLEAN
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,LLLL** mayyyy c*oooo choooo noooo connnn koooo Liemmmm nuaaaa coooo dauuuu maaaa mayyyy duaaaa lonnnn choooo n.g.uoiiii taaaa annnn connnn thuuuu vatttt dauuuu thaiiii,2,0,HATE,CLEAN
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,Caiiii matttt laaaa nhinnnn delllll uaaaa n*********i voiiii biiii nungggg lauuuu nammmm,2,0,HATE,CLEAN
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,COOOO THANG THONG THAOOOO 29999 THUUUU TIENG LAMMMM CHUUUU TICHHHH PAc.c*C POOOO,2,0,HATE,CLEAN
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,Ngheeee syyyy Haiiii haiiii ngoai dc*cc nhieu bannnn treeee trong nuocccc m.emmmm moooo nhatttt,0,1,CLEAN,OFFENSIVE
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,Ranhhhh d.i.tttt l***a dayyyy.,1,0,OFFENSIVE,CLEAN
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,Anhhhh n.g.uyennnn khoc*cc 8888 chucccc dongggg songggg 😭😭,0,1,CLEAN,OFFENSIVE
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,hiepppp t*********o,1,0,OFFENSIVE,CLEAN
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,Cayyyy v.llll n****i kkkkk,1,0,OFFENSIVE,CLEAN
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,Ngoai minhhhh keuuuu connnn nayyyy laaaa cuaaaa xanhhhh tennnn khac*cc laaaa cuaaaa c.h.oooo boiiii viiii noooo duuuu lammmm,0,1,CLEAN,OFFENSIVE
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,c.a.c*cc quaaaa laiiii beeee lennnn nhaaaa daaaa ngoiiii thiiii moiiii sangggg matttt chuaaaa cuaaaa trucccc nhannnn luonnnn,0,1,CLEAN,OFFENSIVE
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,mayyyy veeee daiiii lennnn bannnn thoooo nhaaaa mayyyy diiii adddd :)) xongggg luc*cc doooo hoooo hangggg khennnn mayyyy gioiiii ( viiii tuuuu truocccc dennnn nayyyy chuaaaa aiiii lammmm dcccc theeee ) hayyyy chuiiii mayyyy n.g.uuuu =))))),2,1,HATE,OFFENSIVE
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,Saoooo loxzzzz quennnn c*********a chiiii 3333,2,0,HATE,CLEAN
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,Diennnn Trannnn coooo connnn rrrr maaaa connnn n.g.uuuu maaaa ranhhhh l*nnnn gheeee,2,0,HATE,CLEAN
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,EEEE soooo tttt giannnn lmmmm giauuuu rrrr maaaa tuoiiii tac*cc giaaaa yeuuuu m.eeee rrrr,0,1,CLEAN,OFFENSIVE
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,dc*cc v.llll koooo = ))))),0,1,CLEAN,OFFENSIVE
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,Duuuu maaaa tuuuu thgggg c.h.oooo giuuuu xeeee dennnn thgggg suc*cc vatttt chuyen hanhhhh lyyyy,2,1,HATE,OFFENSIVE
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,Luong Vannnn Thang gannnn 1trrrr luotttt likeeee laaaa luong dislike thiiii 3333 chammmm 🤷 duuuu hieuuuu trinh doooo nhaiiii nhac.c*c cuaaaa cauuuu dennnn dauuuu rrrr 😌,0,2,CLEAN,HATE
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,"oooo minhhhh biiii dc*cc vaoooo viennnn khammmm , connnn oooo bonnnn ncccc thayyyy baoooo laaaa phatttt trien thiiii veeee nhaaaa tuuuu c.a.chhhh lyyyy",0,1,CLEAN,OFFENSIVE
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,Deoooo phaiiii daaaa vssss Mc.c*C chaaaa cuoi?,1,0,OFFENSIVE,CLEAN
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,Baoooo g*********o chetttt,1,0,OFFENSIVE,CLEAN
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,Thatttt raaaa laaaa quennnn keoooo khoaaaa quannnn ngoai loooo quannnn trong nennnn deeee loooo hannnn thanh phong c*chhhh moiiii c.h.oooo noooo doooo queeee,1,0,OFFENSIVE,CLEAN
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,Caiiii goc.c*c canhhhh nayyyy laaaa aiiii haoooo haoooo giong a3333 dungggg koooo,0,1,CLEAN,OFFENSIVE
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,Nhannnn doanh congggg hoaaaa liennnn bangggg duc*cc dangggg sannnn xuatttt cammmm coooo annnn mauuuu nhonnnn xinnnn adddd minnnn voiiii c.a.cccc bacccc ungggg hoooo 🤣🤣🤣,0,1,CLEAN,OFFENSIVE
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,Connnn diiii doooo noiiii doc.c*c giong connnn 3333 vangggg maaaa !,2,1,HATE,OFFENSIVE
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,Doooo v******l,1,0,OFFENSIVE,CLEAN
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,Toiiii nghiiii gioooo trung thuuuu hauuuu nhuuuu c.a.c*cc doiiii deuuuu muonnnn hoaaaa thannnn thanh diennnn viennnn nhatttt bannnn vaaaa dongggg phimmmm voiiii nhauuuu 15-20p deeee nammmm sauuuu hayyyy lannnn sauuuu connnn coooo kiiii niemmmm,0,1,CLEAN,OFFENSIVE
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,"Nhung Phammmm Aiiii cheeee ngheo ngtaaaa coooo tiennnn diiii nuocccc naoooo keeee m*eee n.g.uoiiii taaaa, Noooo vannnn mangggg qtich VNNNN thiiii veeee VNNNN chuaaaa VNNNN daaaa cammmm dauuuu maaaa lennnn tieng lmmmm jjjj ICHHHH KYYYY",2,0,HATE,CLEAN
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,"Theeee laaaa tuuuu c.a.c*cc ongggg suyyyy raaaa chuuuu thien duong, tuuuu nhetttt chuuuu vaoooo mommmm chuuuu dangggg koooo noiiii dungggg koooo",2,1,HATE,OFFENSIVE
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,d.i.tttt n*****u,1,0,OFFENSIVE,CLEAN
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,Taoooo thayyyy nhiem covid nayyyy toannnn bonnnn n*******u tiennnn vaaaa thich diiii duuuu lichhhh day..,2,0,HATE,CLEAN
+svm_saved_baseline,original_artifact,mixed_noise,before_norm,Rangggg songggg diennnn haiiii c.h.oooo mayyyy connnn coiiii nheeee bac*cc TDDDD,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Dungggg coooo biennnn minhhhh =)))) c.h.oiiii l*nnnn,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Haizz. Ntheeee nayyyy t*********i dannnn khoooo quaaaa,1,0,OFFENSIVE,CLEAN
+xlmr_note08,original,mixed_noise,before_norm,theeee nayyyy maaaa chiiii phatttt gayyyy rrrr tratttt t*******u congggg congggg thoiiii aaaa dungggg laaaa dannnn minhhhh,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Muaaaa c.h.oooo emmmm hopppp bcssss miiii saiiii c*oooo oaiiii :)),0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,koooo coooo diemmmm dungggg l***********n haaaa troiiii ☹☹☹,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Leeee Vannnn Quatttt x*********n vidddd ongggg,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,"Lyyyy khung t*********i co,kk",0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,AAAA thiiii raaaa n.g.uoiiii Nhatttt c*****g chang honnnn Voooo Hongggg Tammmm,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Thayyyy treuuuu ongggg c.h.oooo lammmm v****o biiii theeee laaaa dungggg rrrr,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Oiiii t***********i thoooo,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,hangggg luc.c*c naoooo cungggg phaiiii chuan nhuuuu hommmm nayyyy giaoooo toiiii dayyyy nheeee,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Leeeee Shung Liemmmm yepppp y*****. ngayyyy c.h.oooo eeee,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,setttt doooo deeee c.a.c*cc vannnn dongggg viennnn annnn tetttt sauuuu vfffff quannnn lyyyy tiennnn thuong,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Thayyyy n******u,2,1,HATE,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Dc.c*c dayyyy abeeee,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Hongggg phannnn 2222 cuaaaa haiiii haiiii n*******i cuaaaa anhhhh Baaaa taiiii Lasvegas,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Setttt danhhhh c***********t taoooo diiii,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Am.ennnn ongggg vannnn k*****e Idollll cuaaaa tuiiii,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Chiiii baaaa giaaaa theeee giauuuu chiiii oiiii emmmm khoooo quaaaa chiiii baaaa oiiii g*****p c.h.oooo emmmm diiii chiiii Saiiii tiennnn maaaa tiemmmm vangggg Saiiii koooo bangggg chiiii,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,(YYYY) pageeee nayyyy adddd noooo kiennnn thuc*cc uyennnn sauuuu lammmm tuuuu xayyyy dungggg taiiii chinh yyyy teeee caiiii jjjj nnnn cungggg ammmm hieuuuu =)))) n.g.uuuu dotttt + nhiet tinhhhh = phaaaa hoaiiii koooo saiiii bhhhh,2,1,HATE,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,"Deeee nghiiii 17777, 22,23,32 dennnn phaaaa vaiiii hoiiii vaoooo m*tttt tkkkk nayyyy deeee noooo diiii c.a.chhhh lyyyy theeee gioiiii hannnn diiii.",2,1,HATE,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,"Nhaaaa Xaaaa truong hoc.c*c, nhaaaa gannnn cauuuu tieuuuu cauuuu noiiii daaaa gannnn sauuuu vaoooo dauuuu taoooo :)))))",0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,AAAA keeee chuyen nnnn l****i hayyyy v.llll 😂,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Hoang Yennnn fannnn cungggg doooo mixiiii t*********i diiii annnn lauuuu phannnn thoiiii =)))))))))))),0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Frommmm Binhhhh Phuoc.c*c <3333,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Mongggg thayyyy chiiii d***********g mvvvv thoiiii :vvvv,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Trannnn Linhhhh delllll h***********u kieuuuu jjjj :)),1,0,OFFENSIVE,CLEAN
+xlmr_note08,original,mixed_noise,before_norm,Alexxxx Duong t*******t luonnnn 😤,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Channnn thuc.c*c suuuu =))),0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Leeee Khanh Annnn keeee ngggg taaaa viec.c*c nhaaaa mikkkk laaaa giuuuu topppp🙂,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,"Coooo noiiii chuyen tuuuu nhien, d*******e thuong xemmmm thich gheeee",0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Hanhhhh Vietttt hetttt caiiii bonnnn cuc*cc kiiii thuyet phucccc bayyyy gioooo laiiii dennnn bonnnn : “ OOOO nhaaaa giupppp m.eeee giupppp cha.... “ Xammmm lollll nhuuuu nhauuuu caaaa thoiiii,2,1,HATE,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,bestttt c*******a khiaaaa,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,n.g.uyennnn Thiiii Thuyyyy c*oooo connnn chuuuu duiiii dauuuu raaaa,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,P***********t,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Buonnnn c***********i,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,G***********v,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Thayyyy tuuuu dapppp doooo chennnn commmm chuuuu aiiii themmmm cuopppp :*) Dangggg yennnn dangggg lanhhhh tuuuu nhien gayyyy dayyyy chuuuu :3333,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Depppp traiiii q*********a abeeee oiiii,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Chiiii Baaaa vaaaa Hieuuuu Minhhhh 2222 n.g.uoiiii thuong nhauuuu nhuuuu chiiii emmmm ruot; Hieuuuu minhhhh quayyyy clipppp nhannnn quaaaa cuaaaa chiiii Baaaa c*oooo quaaaa troiiii luon. Hieuuuu Minhhhh connnn huaaaa choooo chiiii Baaaa 1111 mieng datttt vaaaa soiiii dayyyy chuyen 10000 cayyyy nuaaaa maaaa. Huaaaa laaaa nhoooo giuuuu loiiii do.Dung laaaa songggg voiiii nhauuuu bangggg tinhhhh nghia channnn that.,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Coooo baaaa oiiii coooo giauuuu lammmm zzzz coooo giupppp n***g n.g.uoiiii khoooo giong nkuuuu tuiiii connnn diiii coooo,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,n.g.uyennnn thiiii tuoiiii t*****m doooo bannnn,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Aiiii hieuuuu lammmm anhhhh daaaa noiiii emmmm ngheeee emmmm noiiii voiiii n.g.uoiiii doooo giummmm c*oooo,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Cammmm onnnn t***********y baaaa,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Thich nhatttt baiiii chiec k***********n gioooo ammmm 🌬,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,LKc.c*C tapppp nayyyy xinhhhh thucccc su...,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Dapppp queeee gioooo d*******i aaaa baaaa,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Selaaaa kitttt c.learrrr petland phuuuu d****o deeee abeeee lammmm hetttt😎,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,n.g.uyennnn Ngoc*cc Linhhhh xetttt nghiem matttt 10000 tieng moiiii coooo kp.ai ranhhhh deeee xepppp hangggg doiiii 10000 tieng moiiii dcccc hiennnn mauuuu dauuuu,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Toannnn t*******h phannnn,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,"Chiiii baaaa nhieu tiennnn thiiii diiii lammmm tuuuu thien,con oooo doooo noiiii tucccc tieu, gioooo bannnn. Lammmm nhucccc n.g.uoiiii vnnnn trennnn theeee gioi. Lammmm baiiii hoaiiii nennnn vannnn hoaaaa vnnnn. Xinnnn yeuuuu c*cccc capppp coooo thammmm quyen vaoooo cuocccc suuuu lyyyy.",0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Tetttt diiii s*********m doooo tetttt,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Sepppp n.g.uoiiii t***a 😞,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Baaaa nayyyy noiiii dungggg maaaa baaaa doooo diiii lammmm oooo sinnnn guiiii tiennnn doooo veeee Vietttt Nammmm huong chuuuu tiennnn V***********t Nammmm lammmm jjjj coooo giaaaa triiii tuyyyy baaaa noiiii chuyen thoooo loooo tiiii nhung maaaa baaaa noiiii dungggg ma...,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Sepppp oooo d*********u vvvv ?!,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Oiiii boooo caiiii luuuu thanh niennnn h*********m lollll. Depppp matttt quaaaa 😒😒,2,1,HATE,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Hiennnn Hiennnn troiiii d*********t oiiii chiiii emmmm,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Duyyyy Linhhhh minhhhh raaaa sannnn bayyyy diiii maaaa gapppp 10000 thang t****y thiiii chiiii 2222 n.g.uoiiii tayyyy chieu deoooo khauuuu trang thoiiii 😂,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Cayyyy butttt d****p v.llll,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Matttt chiiii nhinnnn soooo honnnn m*********t ongggg kiaaaa aaaa 😞,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Truoc.c*c sauuuu jjjj cungggg diiii theoooo phucccc xaoooo lollll,2,1,HATE,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Theoooo trung congggg diiii rrrr dennnn luc.c*c koooo connnn loiiii dungggg dcccc baaaa seeee thayyyy canh. Hayyyy nhoooo cauuuu dungggg ngheeee nhung jjjj cssss noiiii ma..😂😂😂,2,1,HATE,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Congggg annnn maaaa muonnnn xuuuu lyyyy thiiii 2222 ongggg luatttt suuuu nayyyy seeee biennnn matttt ngayyyy lapppp tuc*cc. Chuuuu chaaaa phaiiii biiii danhhhh giuaaaa duong rrrr chupppp anhhhh mauuuu m.eeee postttt lennnn mangggg rammmm rammmm dauuuu,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Nac.c*c Naaaa tttt cungggg koooo btttt nuaaaa😁,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,RIetttt thang adddd chuiiii nhammmm quaaaa cp1111 jjjj thiiii chuiiii benhhhh vien. Loiiii caaaa caiiii datttt nuoc.c*c vaoooo lammmm jjjj :)),2,1,HATE,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Chuc.c*c mungggg idollll :)),0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Taoooo b*******o tay.....:v,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Tetttt coooo hayyyy koooo quannnn trong nhatttt vannnn laaaa doooo anhhhh thoooo catttt toc.c*c Toooo Phammmm :)),0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Aiiii muaaaa coc.c*c voiiii tuiiii hemmm,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Doc*cc ratttt diennnn cammmm 10000 diemmmm veeee c.h.oooo,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,coooo deeee thuong q*********a troiiii oiiii,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Gannnn datttt xaaaa troiiii r*****r noiiii itttt thoiiii,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Coooo Hieuuuu d*******n quaaaa,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,bannnn hangggg reeee koooo thommmm lauuuu thiiii noiiii koooo thommmm lauuuu . noiiii hangggg fakeeee . mac.c*c jjjj quang baaaa lammmm nhuuuu totttt lammmm .,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,caiiii jjjj c.h.oooo noooo thatttt taiiii saoooo m*****h laaaa dannnn ongggg biennnn thanh dannnn baaaa,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Datttt Royal Bac.c*c thatttt coooo connnn matttt tinhhhh doiiii,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,"Replay thayyyy macccc m*tttt, voteeee doiiii ongggg ed.i.tttt",0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Ngheo khoooo coooo nhauuuu c*********n giauuuu thiiii saoooo nhiiii.,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,Cauuuu vangggg diiii r*****r abeeee oiiii huhuuuu,0,1,CLEAN,OFFENSIVE
+xlmr_note08,original,mixed_noise,before_norm,"@Thanh Diepppp Phannnn coooo lyyyy, lammmm jjjj coooo a***i vuaaaa c.h.ongggg CSSSS maaaa vuaaaa chuiiii ongggg trump",0,1,CLEAN,OFFENSIVE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,theeee nayyyy maaaa chiiii phatttt gayyyy rrrr tratttt t*******u congggg congggg thoiiii aaaa dungggg laaaa dannnn minhhhh,0,2,CLEAN,HATE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,koooo coooo diemmmm dungggg l***********n haaaa troiiii ☹☹☹,0,1,CLEAN,OFFENSIVE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,caiiii jjjj t*********e :)),0,1,CLEAN,OFFENSIVE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Leeee Vannnn Quatttt x*********n vidddd ongggg,0,1,CLEAN,OFFENSIVE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,AAAA thiiii raaaa n.g.uoiiii Nhatttt c*****g chang honnnn Voooo Hongggg Tammmm,0,2,CLEAN,HATE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Thayyyy treuuuu ongggg c.h.oooo lammmm v****o biiii theeee laaaa dungggg rrrr,0,1,CLEAN,OFFENSIVE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Oiiii t***********i thoooo,0,1,CLEAN,OFFENSIVE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,hangggg luc.c*c naoooo cungggg phaiiii chuan nhuuuu hommmm nayyyy giaoooo toiiii dayyyy nheeee,0,2,CLEAN,HATE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,setttt doooo deeee c.a.c*cc vannnn dongggg viennnn annnn tetttt sauuuu vfffff quannnn lyyyy tiennnn thuong,0,2,CLEAN,HATE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Thayyyy n******u,2,0,HATE,CLEAN
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Dc.c*c dayyyy abeeee,0,1,CLEAN,OFFENSIVE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Setttt danhhhh c***********t taoooo diiii,0,1,CLEAN,OFFENSIVE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Am.ennnn ongggg vannnn k*****e Idollll cuaaaa tuiiii,0,1,CLEAN,OFFENSIVE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Chiiii baaaa giaaaa theeee giauuuu chiiii oiiii emmmm khoooo quaaaa chiiii baaaa oiiii g*****p c.h.oooo emmmm diiii chiiii Saiiii tiennnn maaaa tiemmmm vangggg Saiiii koooo bangggg chiiii,0,2,CLEAN,HATE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,"Nhaaaa Xaaaa truong hoc.c*c, nhaaaa gannnn cauuuu tieuuuu cauuuu noiiii daaaa gannnn sauuuu vaoooo dauuuu taoooo :)))))",0,2,CLEAN,HATE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,AAAA keeee chuyen nnnn l****i hayyyy v.llll 😂,0,1,CLEAN,OFFENSIVE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Mongggg thayyyy chiiii d***********g mvvvv thoiiii :vvvv,0,1,CLEAN,OFFENSIVE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Trannnn Linhhhh delllll h***********u kieuuuu jjjj :)),1,0,OFFENSIVE,CLEAN
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Channnn thuc.c*c suuuu =))),0,1,CLEAN,OFFENSIVE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,"Coooo noiiii chuyen tuuuu nhien, d*******e thuong xemmmm thich gheeee",0,2,CLEAN,HATE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,n.g.uyennnn Thiiii Thuyyyy c*oooo connnn chuuuu duiiii dauuuu raaaa,0,2,CLEAN,HATE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,P***********t,0,1,CLEAN,OFFENSIVE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Buonnnn c***********i,0,1,CLEAN,OFFENSIVE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,G***********v,0,1,CLEAN,OFFENSIVE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Thayyyy tuuuu dapppp doooo chennnn commmm chuuuu aiiii themmmm cuopppp :*) Dangggg yennnn dangggg lanhhhh tuuuu nhien gayyyy dayyyy chuuuu :3333,0,2,CLEAN,HATE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Chiiii Baaaa vaaaa Hieuuuu Minhhhh 2222 n.g.uoiiii thuong nhauuuu nhuuuu chiiii emmmm ruot; Hieuuuu minhhhh quayyyy clipppp nhannnn quaaaa cuaaaa chiiii Baaaa c*oooo quaaaa troiiii luon. Hieuuuu Minhhhh connnn huaaaa choooo chiiii Baaaa 1111 mieng datttt vaaaa soiiii dayyyy chuyen 10000 cayyyy nuaaaa maaaa. Huaaaa laaaa nhoooo giuuuu loiiii do.Dung laaaa songggg voiiii nhauuuu bangggg tinhhhh nghia channnn that.,0,2,CLEAN,HATE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Coooo baaaa oiiii coooo giauuuu lammmm zzzz coooo giupppp n***g n.g.uoiiii khoooo giong nkuuuu tuiiii connnn diiii coooo,0,2,CLEAN,HATE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,n.g.uyennnn thiiii tuoiiii t*****m doooo bannnn,0,1,CLEAN,OFFENSIVE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Thich nhatttt baiiii chiec k***********n gioooo ammmm 🌬,0,1,CLEAN,OFFENSIVE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Selaaaa kitttt c.learrrr petland phuuuu d****o deeee abeeee lammmm hetttt😎,0,2,CLEAN,HATE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,n.g.uyennnn Ngoc*cc Linhhhh xetttt nghiem matttt 10000 tieng moiiii coooo kp.ai ranhhhh deeee xepppp hangggg doiiii 10000 tieng moiiii dcccc hiennnn mauuuu dauuuu,0,2,CLEAN,HATE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,"Chiiii baaaa nhieu tiennnn thiiii diiii lammmm tuuuu thien,con oooo doooo noiiii tucccc tieu, gioooo bannnn. Lammmm nhucccc n.g.uoiiii vnnnn trennnn theeee gioi. Lammmm baiiii hoaiiii nennnn vannnn hoaaaa vnnnn. Xinnnn yeuuuu c*cccc capppp coooo thammmm quyen vaoooo cuocccc suuuu lyyyy.",0,2,CLEAN,HATE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Motttt phutttt boc.c*c dongggg bangggg caaaa doiiii bocccc cucccc 😂,1,2,OFFENSIVE,HATE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Tetttt diiii s*********m doooo tetttt,0,1,CLEAN,OFFENSIVE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Abaaaa hatttt hayyyy quaaaa N***********e xongggg xiuuuu luonnnn,0,1,CLEAN,OFFENSIVE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Eoooo thich thiiii biennnn diiii thoc*cc connnn matttt c.h.ongggg caiiii taiiii lennnn xemmmm lammmm ghiiii,1,2,OFFENSIVE,HATE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Baaaa nayyyy noiiii dungggg maaaa baaaa doooo diiii lammmm oooo sinnnn guiiii tiennnn doooo veeee Vietttt Nammmm huong chuuuu tiennnn V***********t Nammmm lammmm jjjj coooo giaaaa triiii tuyyyy baaaa noiiii chuyen thoooo loooo tiiii nhung maaaa baaaa noiiii dungggg ma...,0,2,CLEAN,HATE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Sepppp oooo d*********u vvvv ?!,0,1,CLEAN,OFFENSIVE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Oiiii boooo caiiii luuuu thanh niennnn h*********m lollll. Depppp matttt quaaaa 😒😒,2,1,HATE,OFFENSIVE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Duyyyy Linhhhh minhhhh raaaa sannnn bayyyy diiii maaaa gapppp 10000 thang t****y thiiii chiiii 2222 n.g.uoiiii tayyyy chieu deoooo khauuuu trang thoiiii 😂,0,2,CLEAN,HATE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Cayyyy butttt d****p v.llll,0,1,CLEAN,OFFENSIVE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Matttt chiiii nhinnnn soooo honnnn m*********t ongggg kiaaaa aaaa 😞,0,1,CLEAN,OFFENSIVE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Truoc.c*c sauuuu jjjj cungggg diiii theoooo phucccc xaoooo lollll,2,1,HATE,OFFENSIVE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Congggg annnn maaaa muonnnn xuuuu lyyyy thiiii 2222 ongggg luatttt suuuu nayyyy seeee biennnn matttt ngayyyy lapppp tuc*cc. Chuuuu chaaaa phaiiii biiii danhhhh giuaaaa duong rrrr chupppp anhhhh mauuuu m.eeee postttt lennnn mangggg rammmm rammmm dauuuu,0,2,CLEAN,HATE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Nac.c*c Naaaa tttt cungggg koooo btttt nuaaaa😁,0,1,CLEAN,OFFENSIVE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,"dauuuu hauuuu cannnn k***********, noiiii boooo thoiiii",0,1,CLEAN,OFFENSIVE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Chuc.c*c mungggg idollll :)),0,1,CLEAN,OFFENSIVE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Taoooo b*******o tay.....:v,0,1,CLEAN,OFFENSIVE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Tetttt coooo hayyyy koooo quannnn trong nhatttt vannnn laaaa doooo anhhhh thoooo catttt toc.c*c Toooo Phammmm :)),0,2,CLEAN,HATE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Baroibeo diiii n******u rrrr,0,1,CLEAN,OFFENSIVE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Doc*cc ratttt diennnn cammmm 10000 diemmmm veeee c.h.oooo,0,1,CLEAN,OFFENSIVE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,coooo deeee thuong q*********a troiiii oiiii,0,1,CLEAN,OFFENSIVE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Gannnn datttt xaaaa troiiii r*****r noiiii itttt thoiiii,0,1,CLEAN,OFFENSIVE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,uaaaa c.h.oooo hoiiii Minhhhh Hieuuuu laaaa gaiiii thiet hayyyy l***a tuuuu traiiii sangggg gaiiii ??? Taiiii hongggg bietttt,0,2,CLEAN,HATE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,bannnn hangggg reeee koooo thommmm lauuuu thiiii noiiii koooo thommmm lauuuu . noiiii hangggg fakeeee . mac.c*c jjjj quang baaaa lammmm nhuuuu totttt lammmm .,0,2,CLEAN,HATE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,caiiii jjjj c.h.oooo noooo thatttt taiiii saoooo m*****h laaaa dannnn ongggg biennnn thanh dannnn baaaa,0,1,CLEAN,OFFENSIVE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Datttt Royal Bac.c*c thatttt coooo connnn matttt tinhhhh doiiii,0,2,CLEAN,HATE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,"Replay thayyyy macccc m*tttt, voteeee doiiii ongggg ed.i.tttt",0,1,CLEAN,OFFENSIVE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Cauuuu vangggg diiii r*****r abeeee oiiii huhuuuu,0,1,CLEAN,OFFENSIVE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,"@Thanh Diepppp Phannnn coooo lyyyy, lammmm jjjj coooo a***i vuaaaa c.h.ongggg CSSSS maaaa vuaaaa chuiiii ongggg trump",0,2,CLEAN,HATE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Cuc.c*c kyyyy thuyet phuc🙂,0,1,CLEAN,OFFENSIVE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Nhinnnn matttt b*******a nayyyy ...,0,1,CLEAN,OFFENSIVE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,tuong laiiii mongggg saoooo tungggg xeeee koooo chiuuuu hiemmmm h*********a chupppp anhhhh tuuuu suong nhuuuu anhhhh doooo ngayyyy xuaaaa😅,0,2,CLEAN,HATE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Chuiiii daoooo d*******e that!,0,1,CLEAN,OFFENSIVE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Baaaa nc.c*c maaaa cuoiiii xiuuuu,0,1,CLEAN,OFFENSIVE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Gauuuu T*******g nnnn,0,1,CLEAN,OFFENSIVE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Duaaaa naoooo baoooo quang c****o soiiii c.h.oooo bietttt tayyyy,0,1,CLEAN,OFFENSIVE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Demmmm raaaa bannnn ngayyyy c*********i theeee loaiiii ayyyy,2,0,HATE,CLEAN
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,hongggg broooo tetttt d******t thang tungggg,0,1,CLEAN,OFFENSIVE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,kicmmmm luc.c*c nayyyy,0,1,CLEAN,OFFENSIVE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Thiiii Thiiii cmtttt nayyyy h*********p liiii neeee maaaa :)),0,1,CLEAN,OFFENSIVE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Mongggg lungggg nhuuuu 1*****1 troooo duaaaa,0,1,CLEAN,OFFENSIVE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Nhinnnn nhaaaa tiennnn triiii Trannnn Dannnn d***********g thuong honnnn laaaa dangggg trach.,0,2,CLEAN,HATE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Luong taoooo t*******h nghi🙂,0,1,CLEAN,OFFENSIVE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Hoooo Thiiii Truc.c*c Phuong hogggg sao..khoanh khacccc huyen thoai khacccc seeee raaaa doiiii 🤣🤣,0,2,CLEAN,HATE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,zzzz veeee c.h.oooo cannnn boooo xayyyy bietttt thuuuu connnn emmmm diiii duuuu hoc*cc,0,2,CLEAN,HATE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Laaaa 1111 thang connnn t***********i koooo nennnn dungggg Facebook,0,2,CLEAN,HATE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,"Voiiii nhung truong hopppp tronnnn c*chhhh lyyyy cuuuu phatttt tuuuu c.h.oooo nangggg moiiii soooo, duaaaa succcc khoeeee cuaaaa bannnn thannnn rrrr chang mayyyy layyyy lannnn raaaa ngoai lucccc doooo coooo xinnnn loiiii cungggg chaaaa aiiii chapppp nhannnn dauuuu",0,2,CLEAN,HATE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Xuannnn Huynh oooo binhhhh thuan cungggg biiii rrrr neeee c.c*c,0,1,CLEAN,OFFENSIVE
+xlmr_note08,augmented_mixed,mixed_noise,before_norm,Theeee mac.c*c 1111 quannnn rrrr xoeeee raaaa thoii. Doooo theeee troiiii,0,1,CLEAN,OFFENSIVE
