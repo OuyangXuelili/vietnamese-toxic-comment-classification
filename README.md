@@ -90,6 +90,8 @@ bpe.codes
 added_tokens.json
 ```
 
+Lưu ý: các model transformer lớn như PhoBERT/XLM-R không nên commit trực tiếp bằng Git thường. Sau khi clone repo, cần copy artifact đã train vào đúng thư mục trên, hoặc set biến môi trường `PHOBERT_MODEL_DIR` trỏ tới nơi lưu model. Các checkpoint/model lớn đã được ignore để tránh làm repo phình quá nặng.
+
 App cũng sử dụng các tài nguyên giải thích và kiểm duyệt:
 
 ```text
@@ -131,7 +133,7 @@ Nếu thiếu SVM, BiLSTM hoặc XLM-R, app vẫn chạy PhoBERT và hiển th�
 ├── app.py
 ├── requirements.txt
 ├── README.md
-├── run_streamlit_cloudflare_colab (1).ipynb
+├── run_streamlit.ipynb
 ├── data/
 │   ├── raw/
 │   ├── processed/
@@ -147,6 +149,7 @@ Nếu thiếu SVM, BiLSTM hoặc XLM-R, app vẫn chạy PhoBERT và hiển th�
 │   ├── 06_extension_data_contract_and_vihos_readiness_local.ipynb
 │   ├── 07_vihos_span_explanation_token_model_local.ipynb
 │   ├── 08_robustness_normalization_and_augmentation.ipynb
+│   ├── 08b_bilstm_phobert_augmentation_and_failure_analysis_colab_final (1).ipynb
 │   └── 09_external_test_moderation_and_app_artifacts_final_expert (1).ipynb
 ├── src/
 │   ├── app_utils.py
@@ -219,7 +222,7 @@ outputs/figures
 File:
 
 ```text
-run_streamlit_cloudflare_colab (1).ipynb
+run_streamlit.ipynb
 ```
 
 dùng để chạy app Streamlit trên Colab và mở public URL qua Cloudflare Tunnel. Notebook này không tạo `app.py`; cần đặt sẵn `app.py` ở project root.
@@ -238,7 +241,7 @@ Notebook thực hiện các bước chính:
 Kiểm tra cú pháp Python:
 
 ```powershell
-python -m py_compile app.py
+python -m compileall app.py src
 ```
 
 Kiểm tra app có phản hồi:
@@ -270,35 +273,14 @@ Tầng thứ 3 giúp demo giải thích các câu khó hơn, nhưng được ghi
 
 ## Kết quả và hình ảnh QA
 
-Trong quá trình kiểm thử demo, ảnh chụp màn hình được lưu ở:
+Các bảng metric, báo cáo và hình phục vụ model card được commit trong:
 
 ```text
-qa_screenshots/
+outputs/results/
+outputs/figures/
 ```
 
-Một số ảnh QA cuối:
-
-```text
-qa_screenshots/24_final_review_result.png
-qa_screenshots/25_case_weird_evidence_fixed.png
-qa_screenshots/26_model_comparison_added.png
-qa_screenshots/27_model_comparison_visible.png
-qa_screenshots/28_case_raw_label_and_fuzzy_evidence.png
-qa_screenshots/30_multimodel_comparison_table.png
-qa_screenshots/31_note8_vihos_role_model_tab.png
-qa_screenshots/32_multimodel_with_xlmr.png
-qa_screenshots/34_tabs_purpose_batch.png
-qa_screenshots/35_tabs_purpose_model_card.png
-qa_screenshots/41_final_demo_quick_cases.png
-qa_screenshots/42_final_demo_model_status.png
-qa_screenshots/43_final_demo_sample_csv.png
-qa_screenshots/44_model_card_notebook_output_audit.png
-qa_screenshots/45_fallback_evidence_signal.png
-qa_screenshots/21_audit_batch_csv.png
-qa_screenshots/18_audit_robustness.png
-qa_screenshots/19_audit_analytics.png
-qa_screenshots/20_audit_model_card.png
-```
+Ảnh chụp kiểm thử giao diện trong `qa_screenshots/` chỉ là artifact local khi rà UI, nên không commit. Nếu cần tái tạo ảnh QA, chạy app Streamlit rồi chụp lại các tab chính: kiểm duyệt đơn, CSV hàng loạt, độ bền nhiễu, dashboard và model card.
 
 ## Lưu ý diễn giải
 
@@ -312,6 +294,7 @@ qa_screenshots/20_audit_model_card.png
 ## Ghi chú phát triển
 
 - Không commit môi trường ảo `.venv`, cache notebook, checkpoint tạm hoặc log chạy local.
-- Giữ artifact cần thiết trong `outputs/models` nếu muốn repo có thể chạy demo ngay.
+- Không commit model transformer/checkpoint quá lớn bằng Git thường. Nếu cần chia sẻ model đầy đủ, nên dùng GitHub Release, Google Drive/Hugging Face Hub hoặc Git LFS.
+- Khi clone repo để chạy demo, đảm bảo có PhoBERT model ở `outputs/models/note08b/phobert_augmented_mixed` hoặc set `PHOBERT_MODEL_DIR`.
 - Khi chỉnh UI, nên kiểm tra cả desktop và mobile.
 - Khi chỉnh model hoặc tokenizer, cần kiểm tra lại pipeline chuẩn hóa và tách từ để tránh lệch so với lúc huấn luyện.
